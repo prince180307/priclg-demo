@@ -1,4 +1,5 @@
 # priclg-demo
 This is my first repo.
-author - prince raj gautam
+<br>
+Author - Prince Raj Gautam
 
